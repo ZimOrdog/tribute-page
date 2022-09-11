@@ -1,0 +1,51 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body {
+ background-color:#E9FDFB;
+ color: #196862;
+ font-family: Calibri, Sans Serif;
+}
+h2 {
+ font-size: 20px;
+}
+#title, #subtitle {
+ text-align: center;
+ padding-top: 10px
+}
+img {
+ display: block;
+ border-radius: 10px;
+ margin-bottom: 10px;
+
+}
+#image {
+ max-width: 100%;
+ height: auto;
+ margin-right: auto;
+ margin-left: auto;
+}
+figure, figecaption{
+ text-align: center;
+ padding: 10px;
+ 
+}
+#figure-caption{
+    margin-bottom: 20px;
+}
+
+
+#tribute-link {
+ color:#196862;
+}
+#tribute-info{
+    text-align: center;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: #d5e6e4;
+    border-radius: 16px;
+}
+ul, li{
+    list-style: none;
+}
